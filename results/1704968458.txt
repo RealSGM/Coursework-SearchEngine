@@ -1,0 +1,18 @@
+TF-IDF,James Earl Cash,0.00039315223693847656
+-
+manhunt.html,0.5506304121301322
+james-bond-007-nightfire.html,0.14065242655411164
+mercenaries.html,0.04475178144086834
+crazy-taxi.html,0.03868863685855715
+james-bond-007-goldeneye-2.html,0.03217957031768312
+hitman-blood-money.html,0.028555898633696942
+-
+Cosine-Similarity,James Earl Cash,1.335726022720337
+-
+manhunt.html,0.13877899321212658
+james-bond-007-nightfire.html,0.028024756463105108
+mercenaries.html,0.008442914517425838
+crazy-taxi.html,0.007049204824476723
+james-bond-007-goldeneye-2.html,0.006811750936063018
+hitman-blood-money.html,0.006092254755297618
+-
